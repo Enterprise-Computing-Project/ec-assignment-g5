@@ -1,7 +1,7 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Worklog}
+###Project Worklog
+
 In this worklog each group member writes their activities regarding to assignment.
+
 ## Week 1
 0. We are four peoeple in a group: Najam Husseini, Ahmad Jawid Jamiulahmadi, Ruhulla Ayubi and Gazelle Zaheer. Our group is "Group 5"
 1. Please write your understanding of the provided reference architectures and methods
@@ -65,6 +65,4 @@ Impelenetation phase using IBM Cloud Platform.
 
 #What
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
