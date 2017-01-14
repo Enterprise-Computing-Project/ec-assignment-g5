@@ -81,9 +81,9 @@ Documented the designed architecture. </td>
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Najma</td>
+<td>10-14</td>
+<td>Studied on Microsoft Azured cloud service. Designed the architecture of an IoT scennario using Micorsoft Azure services.</td>
 </tr>
 
 <tr>
