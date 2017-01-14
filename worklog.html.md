@@ -21,9 +21,11 @@
 <tr>
 
 <td rowspan="4">Week 1</td>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Rohullah</td>
+<td>4 January 217</td>
+<td>Created a Teamwork environment for communication in Slack.
+Read about Serverless Multi-Tier Architectures from AWS and other given sources. 
+Discussed about mentioned architectures with group members. </td>
 
 
 
@@ -67,9 +69,11 @@
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Rohullah</td>
+<td>10-14</td>
+<td>Researched and Read about IBM Platform and IBM Cloud Services.
+Designed a reference architecture in IBM platform based on AWS Real-time stream processing reference architecture. 
+Documented the designed architecture. </td>
 
 
 
