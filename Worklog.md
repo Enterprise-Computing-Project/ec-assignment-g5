@@ -14,10 +14,13 @@ In this worklog each group member writes their activities regarding to assignmen
 ## Week 2
 1. Design and documentation two equivalent reference architecture implementation from the assigned reference architectures based on either 
 Google Cloud Platform, on Microsoft Azure or on IBM Bluemix.
+
 ###When
 10 January 2017
+
 ###Who
 Gazelle Zaheer
+
 ###What
 Reading AWS IoT reference architecture and Google Cloud Platform. 
 Mapp AWS cloud IoT components to Google cloud IoT components.
@@ -26,6 +29,7 @@ Draw equivalent diagram in Google Cloud IoT reference architecture
 
 ## Week 3
 Impelenetation phase using IBM Cloud Platform.
+
 ###When
 
 ###Who
