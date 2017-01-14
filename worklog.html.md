@@ -31,9 +31,9 @@ Discussed about mentioned architectures with group members. </td>
 
 </tr>
 <tr>
+ 
 
-
-<td>first</td>
+<td>Studied the geven sources for assignment. </td>
 <td>first</td>
 <td>first</td>
 
