@@ -22,7 +22,7 @@
 
 <td rowspan="4">Week 1</td>
 <td>Rohullah</td>
-<td>4 January 217</td>
+<td>4 January 2017</td>
 <td>Created a Teamwork environment for communication in Slack.
 Read about Serverless Multi-Tier Architectures from AWS and other given sources. 
 Discussed about mentioned architectures with group members. </td>
@@ -33,9 +33,10 @@ Discussed about mentioned architectures with group members. </td>
 <tr>
  
 
-<td>Studied the geven sources for assignment. </td>
-<td>first</td>
-<td>first</td>
+<td>Gazelle </td>
+<td>4-10 January</td>
+<td>Reading about the Serverless Multi-Tier Architectures from AWS and other 
+sources. Focusing more on IoT backend and disscus whole undrestandings with group memebers. </td>
 
 
 
@@ -61,7 +62,7 @@ Discussed about mentioned architectures with group members. </td>
 <td rowspan="4">Week 2</td>
 <td>Gazelle</td>
 <td>10-14 January</td>
-<td>Reading AWS IoT reference architecture and Google Cloud Platform. Mapp AWS cloud IoT components to Google cloud IoT components. Compare each components with each other Draw equivalent diagram in Google Cloud IoT reference architecture</td>
+<td>Reading AWS IoT reference architecture and Google Cloud Platform. Mapp AWS cloud IoT components to Google cloud IoT components. Compare each components with each other Draw equivalent diagram in Google Cloud IoT reference architecture. Documenting Google IoT backend diagram with description and sharing in slack.</td>
 
 
 
