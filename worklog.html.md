@@ -24,10 +24,10 @@
 <td>Rohullah Ayobi</td>
 <td>4 January 2017</td>
 <td>
---Read about Serverless Multi-Tier Architectures from AWS and other given sources. 
---Discussed about mentioned architectures with group members.
---Implemented the Amazon Real-time stream processing reference architecture in AWS consol. 
---Created a Teamwork environment for communication in Slack.</td>
+--Read about Serverless Multi-Tier Architectures from AWS and other given sources.</b> 
+--Discussed about mentioned architectures with group members.</b>
+--Implemented the Amazon Real-time stream processing reference architecture in AWS consol.</b> 
+--Created a Teamwork environment for communication in Slack.</b> </td>
 
 
 
@@ -75,17 +75,17 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 <td>Rohullah Ayobi</td>
 <td>10.01.2017 - 14.01.17 </td>
 <td>
---Researched and Read about IBM Bluemix Platform and IBM Cloud Services.
---Got familiar about IBM Bluemix Cloud Services such as: 
-1. IBM Stream Analytics 
-2. IBM OpenWhisk or InfoSphere
-3. IBM Cloud Object Storage
-4. IBM Cloudant NoSQL Database
-5. IBM Monitoring and analytic
---Campared the above services to the Amazon Cloud Services for AWS Real-time Stream processing reference architecture.
---Designed a reference architecture in IBM platform based on AWS Real-time stream processing reference architecture. 
---Documented the designed architecture.
---Implemented sample DevOps & Cloud Foundary applications and created Cloud Object Storage service in IBM Bluemix.
+--Researched and Read about IBM Bluemix Platform and IBM Cloud Services.</b>
+--Got familiar about IBM Bluemix Cloud Services such as: </b>
+1. IBM Stream Analytics </b>
+2. IBM OpenWhisk or InfoSphere </b>
+3. IBM Cloud Object Storage </b>
+4. IBM Cloudant NoSQL Database </b>
+5. IBM Monitoring and analytic </b>
+--Campared the above services to the Amazon Cloud Services for AWS Real-time Stream processing reference architecture. </b>
+--Designed a reference architecture in IBM platform based on AWS Real-time stream processing reference architecture. </b>
+--Documented the designed architecture. </b>
+--Implemented sample DevOps & Cloud Foundary applications and created Cloud Object Storage service in IBM Bluemix. </b>
 </td>
 
 
@@ -113,7 +113,7 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 <td>Rohullah Ayobi</td>
 <td>14.01.17 - 21.01.17</td>
 <td>
---Implementation and working on IBM Bluemix Stream Analytics, OpenWhisk, Cloud Object Storage Services and Comparing them to equivalent AWS Kenesis, Lambda and S3 cloud services. 
+--Implementation and working on IBM Bluemix Stream Analytics, OpenWhisk, Cloud Object Storage Services and Comparing them to equivalent AWS Kenesis, Lambda and S3 cloud services. </b>
 
 </td>
 
