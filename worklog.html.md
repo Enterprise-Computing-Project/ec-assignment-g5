@@ -123,9 +123,9 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>14.01.17 - 21.01.17</td>
+<td>Gazelle Zaheer</td>
+<td>Working on IBM Bluemix OpenWhisk and IBM Bluemix Monitoring and Analytics. Checking whether it is possible to connect these two components directly or should be focused individually. Checking need of our simple tweeting notification app to IBM Bluemix Monitoring and Analytics and if yes then how</td>
 
 
 
