@@ -113,7 +113,7 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 <td>Rohullah Ayobi</td>
 <td>14.01.17 - 21.01.17</td>
 <td>
---Implementation and working on IBM Bluemix Stream Analytics, OpenWhisk, Cloud Object Storage Services and Comparing them to equivalent AWS Kenesis, Lambda and S3 cloud services. </b>
+Searched and worked on IBM Bluemix Stream analytics, OpenWhisk and Cloud Object Storage services. What I found was, there is posibility to store an object or file in cloud object storage and retrieve it by GET method using IBM stream analytics.The coding language is SPL(Stream Processing Language). For our scenario and design we can easily use stream analytics to stream data and store it in object storage; no need for OpenWhisk service. Unlike AWS which we can only stream the data through Kenisis and by a Lambda Node.js function we could store data to S3. There is an IDE for Stream analytics; IBM Stream Stedio.  
 
 </td>
 
