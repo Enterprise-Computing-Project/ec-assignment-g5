@@ -149,9 +149,11 @@ Searched and worked on IBM Bluemix Stream analytics, OpenWhisk and Cloud Object 
 <tr>
 
 <td rowspan="4">Week 4</td>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Gazelle</td>
+<td>21 January - 27 January</td>
+<td>Integrating IBM Bluemix Monitoring and Analytics component to OpenWhsik.
+First, working on OpenWhisk actions and triggering actions using external components.
+Second, checking possibilities of intergration of IBM Bluemix Monitoring and Analytics with OpenWhsik</td>
 
 
 
@@ -184,9 +186,10 @@ Searched and worked on IBM Bluemix Stream analytics, OpenWhisk and Cloud Object 
 <tr>
 
 <td rowspan="4">Week 5</td>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Gazelle</td>
+<td>27 Januray - 7 February</td>
+<td>Checking Security of IBM Bluemix Components.
+Comparing IBM Bluemix Monitoring and Analytics advatages and disadvantages with AWS CludWatch</td>
 
 
 
