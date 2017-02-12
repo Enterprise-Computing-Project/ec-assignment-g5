@@ -161,7 +161,7 @@ Second, checking possibilities of intergration of IBM Bluemix Monitoring and Ana
 <tr>
 
 
-<td>Week 4</td>
+
 <td>Najma</td>
 <td>21 January - 27 January</td>
 <td>Worked on IBM Bluemix Streaming Analytics and Cloudant services. Comparing the services with AWS platform services for our scenario. In our Scenario we don't need for alternative service in IBM Bluemix for Kenisis in AWS. Streaming Analytics process the streaming data and it self store it in Cloudant DB.</td>
