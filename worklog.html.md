@@ -48,13 +48,13 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 
 <td>Week 1</td>
 <td>Najma</td>
-<td>Studied on several serverless refrence architecture of Amazon (IoT, Stream processing, File Processing...) and and other cloud services like Microsoft Azure and IBM Bluemix.  </td>
+<td>Reading and researching about all the Serverless Multi-Tier Reference Archictures from AWS Platfrom. Working with an IoT architecture for understanding the concept of the architecture. </td>
 </tr>
 
 <tr>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>4 - 10 January</td>
+<td>Ahmad Jawid</td>
+<td>Read about Serverless Multi-Tier Reference archiectures of AWS. Reviewing the references which are given in Assignment. Implementing the Real-Time Stream Processing refernce architecture of AWS platfrom.</td>
 
 </tr>
 
@@ -96,13 +96,13 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 
 <td>Najma</td>
 <td>Week 2</td>
-<td>Studied on Microsoft Azured cloud service. Designed the architecture of an IoT scennario using Micorsoft Azure services.</td>
+<td>Studied Microsoft Azure cloud platform and its serivces. Designed the architecture of IoT scenario using Micorsoft Azure.</td>
 </tr>
 
 <tr>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Ahmad Jawid</td>
+<td>10 - 14 January</td>
+<td>Start studying of IBM Bluemix Cloud Platfrom and services. Working and implementing different examples and senarios for different services of IBM Bluemix in order to get familiar with. What I found was that Streaming Analytics and IBM InfoSphere is the serices we can use it for your scenario (Real-Time Stream Processing Serverless Reference Architecture).</td>
 
 </tr>
 
@@ -135,13 +135,13 @@ Searched and worked on IBM Bluemix Stream analytics, OpenWhisk and Cloud Object 
 
 <td>Week 3</td>
 <td>Najma</td>
-<td>Studied on IBM Bluemix cloud storages</td>
+<td>Researched and Worked on IBM Bluemix OPenWhisk and integrating it with cloudant DB. What I found; IBM Cloudant use CouchDB and we can connect it with OpenWhisk.</td>
 </tr>
 
 <tr>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Ahmad Jawid</td>
+<td>14.01.17 - 21.01.17</td>
+<td>Working with IBM Bluemix Streaming analytics for RTSP scenario. Researching and working inorder to integerate IBM Streaming analytics with Cloudant service of IBM. Implementing New Yark Traffic Application for understanding the mentioned services of IBM.</td>
 
 </tr>
 
@@ -163,7 +163,8 @@ Second, checking possibilities of intergration of IBM Bluemix Monitoring and Ana
 
 <td>Week 4</td>
 <td>Najma</td>
-<td>Worked with Clodnat cloud storage and its way of communicating with other IBM Bluemix services</td>
+<td>21 January - 27 January</td>
+<td>Worked on IBM Bluemix Streaming Analytics and Cloudant services. Comparing the services with AWS platform services for our scenario. In our Scenario we don't need for alternative service in IBM Bluemix for Kenisis in AWS. Streaming Analytics process the streaming data and it self store it in Cloudant DB.</td>
 
 
 
@@ -171,15 +172,15 @@ Second, checking possibilities of intergration of IBM Bluemix Monitoring and Ana
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Ahmad Jawid</td>
+<td>21 January - 27 January</td>
+<td>Working with IBM Streaming Analytics and integerating it with IBM Cloudant for storing the result of Streaming data in our RTSP scenario. Implementing our choosen RTSP reference archicture using IBM Bluemix Streaming Analytics and integerating it with Cloudant service. Our scenario is a Weather Streaming data which process in Streaming Analytics and then the result will be stored in Cloudant.</td>
 </tr>
 
 <tr>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Rohullah Ayobi</td>
+<td>21.01.17 - 27.01.17</td>
+<td>Worked on how to combine the Cloud Object Storage to OpenWhisk Service. I found that AWS RTSP reference architecture requires to store data stream in S3 because if the Lambda couldn't process are the data stream then it can retrieve data stream from S3. Using IBM Bluemix platform for RTSP reference architecture we need no Cloud Object Storage to Downstream. </td>
 
 </tr>
 
@@ -197,9 +198,9 @@ Comparing IBM Bluemix Monitoring and Analytics advatages and disadvantages with 
 <tr>
 
 
-<td>Week 5</td>
 <td>Najma</td>
-<td>Study on the scalability level of Cloudant storage server of IBM bluemix, </td>
+<td>27 January - 7 February</td>
+<td>Searching and reading about scalability of IBM Bluemix Cloudant service. Specially how we could scale our designed architecture.</td>
 
 
 
@@ -207,15 +208,15 @@ Comparing IBM Bluemix Monitoring and Analytics advatages and disadvantages with 
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Rohullah Ayobi</td>
+<td>27.01.17 - 7.02.17</td>
+<td>Researched about Fault tolerance support of IBM Cloud Object Storage Service, specially when we use this service with Stream Analytics service for our reference architecture senario. What I found was, IBM Object storage is Hybrid cloud storage-as-a-service. Inside cloud object storage SECURESLICE is used to combine encryption, erasure coding and geo-dispersal of data for security and availability.</td>
 </tr>
 
 <tr>
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Ahmad Jawid</td>
+<td>27 January - 7 February</td>
+<td>Reading and Researching about Performance property of streaming analytics integerating with Cloudant DB.</td>
 
 </tr>
 
