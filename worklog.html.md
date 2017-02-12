@@ -46,9 +46,9 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Week 1</td>
+<td>Najma</td>
+<td>Studied on several serverless refrence architecture of Amazon (IoT, Stream processing, File Processing...) and and other cloud services like Microsoft Azure and IBM Bluemix.  </td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ sources. Focusing more on IoT backend and disscus whole undrestandings with grou
 
 
 <td>Najma</td>
-<td>10-14</td>
+<td>Week 2</td>
 <td>Studied on Microsoft Azured cloud service. Designed the architecture of an IoT scennario using Micorsoft Azure services.</td>
 </tr>
 
@@ -133,9 +133,9 @@ Searched and worked on IBM Bluemix Stream analytics, OpenWhisk and Cloud Object 
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Week 3</td>
+<td>Najma</td>
+<td>Studied on IBM Bluemix cloud storages</td>
 </tr>
 
 <tr>
@@ -161,9 +161,9 @@ Second, checking possibilities of intergration of IBM Bluemix Monitoring and Ana
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Week 4</td>
+<td>Najma</td>
+<td>Worked with Clodnat cloud storage and its way of communicating with other IBM Bluemix services</td>
 
 
 
@@ -197,9 +197,9 @@ Comparing IBM Bluemix Monitoring and Analytics advatages and disadvantages with 
 <tr>
 
 
-<td>first</td>
-<td>first</td>
-<td>first</td>
+<td>Week 5</td>
+<td>Najma</td>
+<td>Study on the scalability level of Cloudant storage server of IBM bluemix, </td>
 
 
 
